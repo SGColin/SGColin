@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=SGColin&theme=1)
-
 <!--
 **SGColin/SGColin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
